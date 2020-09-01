@@ -3,6 +3,9 @@
 I am a self-taught front-end developer looking for an opportunity to join a company that is working with the latest technologies. I am coming from a retail background and have been coding on and off for a while. My coding journey started with making a website with Wordpress and once I got hooked I put in the work and learned **HTML, CSS, JAVASCRIPT**. From that point I started learning more about how to make web applications instead of simple landing pages and worked with **React, NextJs, NodeJs, Express** and tried many more technologies.
 
 ---
+NOW:
+  * Lithuanian IT job board
+---
 
 Technologies I feel comfortable with:
 
@@ -34,8 +37,6 @@ Technologies I feel comfortable with:
 
 ---
 
-🏆 Goals
 
- * CodeWars 4kyu ![Codewars badge](https://www.codewars.com/users/mistervrumvrum/badges/micro "CodeWars badge")
 
 
