@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I am self-taught web developer with can-do attitude.
+I am a self-taught web developer with a can-do attitude.
